@@ -1,2 +1,2 @@
 # Exploratory Data Analysis (ITC)
-This repository contains the materials  for EDA for I5-AMS-ITC students.
+This repository contains the materials including TPs and Projects of EDA for I5-AMS-ITC students. 
