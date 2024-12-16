@@ -1,0 +1,14 @@
+---
+title: "Exploratory Data Analysis and Unsupervised Learning"
+format: html
+title-block-style: manuscript
+author: "PHAUK Sokkhey, PhD" 
+---
+
+# Introduction
+Welcome to the course session webpage on Exploratory Data Analysis (EDA) and Unsupervised Learning! This session is designed to equip you with the essential skills and techniques to explore and understand your data before diving into more complex modeling tasks. By the end of this session, you will be adept at uncovering crucial insights hidden within the data and leveraging this knowledge to guide your analysis effectively. You will approach data analysis with a clear objective, applying a variety of techniques to understand, interpret, and make informed decisions based on the data. Additionally, you will be able to present your findings visually, making them accessible for both technical and general audiences.
+# Courses
+
+|Tpoci| Course| 
+|:---|:------:|
+|PCA|[Slides](https://sokkhey.github.io/EDA-and-Unsupervised-Learning/Courses/PCA.html#/title-slide)|
